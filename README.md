@@ -46,6 +46,7 @@ Scikit-learn
 XGBoost
 
 -----Machine Learning Models-----
+
 🔹 Regression
 
 Random Forest Regressor (Predicts actual GLD price)
